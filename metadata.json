@@ -1,0 +1,8 @@
+{
+  "name": "Search Term Triage Engine",
+  "description": "Turn Search Terms into Smarter Advertising Decisions for Google Ads with explainable triage, rules engine, clustering, review queue, and Google Ads API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
